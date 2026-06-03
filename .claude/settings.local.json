@@ -3,7 +3,8 @@
     "allow": [
       "Bash(echo '{\"model\":{\"display_name\":\"Sonnet 4.6\"},\"cwd\":\"C:\\\\\\\\Users\\\\\\\\leeji\\\\\\\\workspace\",\"context_window\":{\"used_percentage\":15}}')",
       "Bash(python \"C:/Users/leeji/.claude/statusline-command.py\")",
-      "Bash(python *)"
+      "Bash(python *)",
+      "Bash(git push *)"
     ]
   }
 }
